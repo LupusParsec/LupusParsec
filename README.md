@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LupusParsec (Uris Herialos)
-- 🧠 I already have some knowledge in: HTML4/5, ASP.NET (+Ajax), CSS3, PHP7, SQL, JavaScript (+jQuery), C++, C#, ActionScript.
-Sadly, I don't remember most of it due a personal trauma with programming.
+- 🧠 I already have some knowledge in: HTML4/5, ASP.NET (+Ajax), CSS3, PHP7, SQL, JavaScript (+jQuery), C++, C#, ActionScript. Sadly, I don't remember most of it due a personal trauma with programming.
 - 🤦‍♂️ Please, don't judge me about any problem you could have with me. I've Asperger and I'm having a psychological treatment right now for Depression 'n' Anxiety.
 - 👀 I’m interested in modding.
 - 🌱 I’m currently learning Java (or trying to learn it, at least).
